@@ -1,1 +1,2 @@
 Hello Odin Project, this is actually pretty cool!
+It is also pretty easy.
